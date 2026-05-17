@@ -61,9 +61,9 @@ filter_comparison_demo
 
 ## 👤 Author
 
-- **Name:** [Your Name]  
-- **GitHub:** [Your GitHub Profile URL]  
-- **Freelancer:** [Your Freelancer Profile URL]
+- **Name:** [Arnab Chakma]  
+- **GitHub:** [https://github.com/sagitarius61)]  
+- **Freelancer:** [(https://www.freelancer.com/u/arnchk27)]
 
 ---
 
